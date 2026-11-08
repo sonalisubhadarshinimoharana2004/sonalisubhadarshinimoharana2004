@@ -66,11 +66,15 @@ I continuously improve my technical skills through hands-on projects, practical 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalisubhadarshinimoharana2004&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalisubhadarshinimoharana2004&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalisubhadarshinimoharana2004&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sonalisubhadarshinimoharana2004&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonalisubhadarshinimoharana2004&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sonalisubhadarshinimoharana2004&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
