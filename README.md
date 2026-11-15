@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I'm Sonali Subhadarshini Moharana
 
 <p align="center">
