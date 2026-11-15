@@ -11,9 +11,12 @@
     <img src="https://cdn.simpleicons.org/github/34D399" width="42" height="42" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sonali-subhadarshini-moharana-46954239b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="120" alt="LinkedIn"/>
-  </a>
+ <a href="https://linkedin.com/in/sonali-subhadarshini-moharana-46954239b">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="45"
+       height="45"
+       alt="LinkedIn"/>
+</a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:moharanas912@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Gmail"/>
