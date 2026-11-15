@@ -11,12 +11,8 @@
     <img src="https://cdn.simpleicons.org/github/34D399" width="42" height="42" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sonali-subhadarshini-moharana">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://sonali-portfolio-chi.vercel.app/">
-    <img src="https://cdn.simpleicons.org/vercel/34D399" width="42" height="42" alt="Portfolio"/>
+  <a href="https://linkedin.com/in/sonali-subhadarshini-moharana-46954239b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="120" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:moharanas912@gmail.com">
