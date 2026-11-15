@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Sonali Subhadarshini Moharana
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:064E3B,100:34D399&text=Sonali%20Subhadarshini%20Moharana&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
 </p>
@@ -13,7 +11,7 @@
     <img src="https://cdn.simpleicons.org/github/34D399" width="42" height="42" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sonali-subhadarshini-moharana-46954239b">
+  <a href="https://linkedin.com/in/sonali-subhadarshini-moharana">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
