@@ -168,9 +168,6 @@ mindset: "Learning | Building | Growing"
   <a href="https://linkedin.com/in/sonali-subhadarshini-moharana-46954239b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://sonali-portfolio-chi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-064E3B?style=for-the-badge&logo=vercel&logoColor=34D399"/>
-  </a>
   <a href="mailto:moharanas912@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
