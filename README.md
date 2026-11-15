@@ -23,11 +23,8 @@
   </a>
 </div>
 
----
-
 ## 💚 ABOUT ME
 
-```yaml
 name: Sonali Subhadarshini Moharana
 role: Software Developer
 education: Master of Computer Applications
@@ -45,15 +42,12 @@ currently_learning:
   - AI & Machine Learning
 
 mindset: "Learning | Building | Growing"
-```
 
 - 🎓 MCA Student passionate about technology and software development.
 - 💻 Interested in building modern, responsive and user-friendly web applications.
 - 🤖 Exploring Artificial Intelligence, Machine Learning and Data Science.
 - 🚀 Continuously improving my technical skills through hands-on projects.
 - 🤝 Open to internships, collaborations and new opportunities.
-
----
 
 ## 💻 TECH STACK
 
@@ -117,8 +111,6 @@ mindset: "Learning | Building | Growing"
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
 </p>
 
----
-
 ## 📊 GITHUB OVERVIEW
 
 <p align="center">
@@ -129,15 +121,11 @@ mindset: "Learning | Building | Growing"
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonalisubhadarshinimoharana2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" alt="Top Languages"/>
 </p>
 
----
-
 ## 🔥 CONTRIBUTION STREAK
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sonalisubhadarshinimoharana2004&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
 </p>
-
----
 
 ## 🏆 GITHUB TROPHIES
 
@@ -145,15 +133,11 @@ mindset: "Learning | Building | Growing"
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sonalisubhadarshinimoharana2004&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
----
-
 ## ✨ DEVELOPER QUOTE
 
 <p align="center">
   <i>"Great things are done by a series of small things brought together."</i>
 </p>
-
----
 
 <h2 align="center">💚 CONNECT WITH ME</h2>
 
@@ -186,4 +170,4 @@ mindset: "Learning | Building | Growing"
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,50:064E3B,100:0D1117&height=120&section=footer" alt="Animated Footer"/>
 </p>
-```
+
